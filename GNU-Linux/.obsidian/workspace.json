@@ -1,0 +1,201 @@
+{
+  "main": {
+    "id": "e6d6fc9155c22711",
+    "type": "split",
+    "children": [
+      {
+        "id": "f1df8ba5c5fd0484",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6cd381b6cd2b63f6",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5844965daedd6314",
+    "type": "split",
+    "children": [
+      {
+        "id": "2323bd4ed12f1a37",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "36e7e2580cf1bfef",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "c92f62c7946d25da",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#Aplicaciones",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a0fad9bf7477612b",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          },
+          {
+            "id": "a2ce7009848dbc87",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 327.5
+  },
+  "right": {
+    "id": "a1ce89136e99d6f3",
+    "type": "split",
+    "children": [
+      {
+        "id": "b7353109abbf16ec",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b50265bcc79cc018",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "387d838d003ee7f6",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "853917f5a281b9cd",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "6b9c2783113f69c3",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          },
+          {
+            "id": "dbf37a9f567e2f51",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 325.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo lienzo": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
+    }
+  },
+  "active": "6cd381b6cd2b63f6",
+  "lastOpenFiles": [
+    "Plantillas/Prueba.md",
+    "Untitled 2024-06-18 01.30.51.excalidraw.md",
+    "Plantillas/Info de Biblioteca.md",
+    "Indice maestro.md",
+    "Enciclopedia/Index_Enciclopedia.md",
+    "Enciclopedia/Utilidades/Crear ejecutable de archivo .appimage.md",
+    "Enciclopedia/Conceptos/Alias de comandos.md",
+    "Bibliotecas del sistema/Biblios/Mesa.md",
+    "Biblioteca de Aplicaciones/Index_app.md",
+    "Biblioteca de Aplicaciones/Apps/Visual Studio Code.md",
+    "Biblioteca de Aplicaciones/Apps/Virt Manager.md",
+    "Biblioteca de Aplicaciones/Apps/Tilix.md",
+    "Biblioteca de Aplicaciones/Apps/Telegram.md",
+    "Biblioteca de Aplicaciones/Apps/Syncthing.md",
+    "Biblioteca de Aplicaciones/Apps/Stacer.md",
+    "Biblioteca de Aplicaciones/Apps/Secrets.md",
+    "Biblioteca de Aplicaciones/Apps/Red Note Book.md",
+    "Biblioteca de Aplicaciones/Apps/Flatpak.md",
+    "Biblioteca de Aplicaciones/Apps/IBus.md",
+    "Biblioteca de Aplicaciones/Apps/lshw (Hardware Lister).md",
+    "Biblioteca de Aplicaciones/Apps/Qemu.md",
+    "Archivos de configuración del sistema/Index_config.md",
+    "Archivos de registro del sistema/Index_log.md",
+    "Archivos de registro del sistema/Registro/Historial de instalaciones apt.md",
+    "Archivos de configuración del sistema/Configuración/Repositorios fuente de apt.md",
+    "Archivos de configuración del sistema/Configuración/Configuracion del shell.md",
+    "Enciclopedia/Conceptos/Anexos/ShellScripting.png",
+    "Enciclopedia/Conceptos/Anexos",
+    "Enciclopedia/Utilidades",
+    "Enciclopedia/Conceptos",
+    "Enciclopedia/Conceptos/Anexos/Particiones.png",
+    "Enciclopedia/Anexos",
+    "Biblioteca de Comandos/Comandos/Sistema/Linea de comandos",
+    "Biblioteca de Comandos/Comandos/Sistema",
+    "Enciclopedia",
+    "Biblioteca de Comandos/Comandos/Red/Comandos de red",
+    "Biblioteca de Comandos/Comandos/Red",
+    "Archivos de registro del sistema/Registro"
+  ]
+}

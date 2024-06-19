@@ -1,0 +1,15 @@
+- [[Biblioteca de Aplicaciones/Apps/Flatpak|Flatpak]]
+- [[Biblioteca de Comandos/Comandos/Comandos de apps y biblios/App/IBus|IBus]]
+- [[Biblioteca de Aplicaciones/Apps/Qemu|Qemu]]
+- [[Red Note Book]]
+- [[Stacer]]
+- [[Syncthing]]
+- [[Telegram]]
+- [[Virt Manager]]
+- [[Visual Studio Code]]
+- [[Tilix]]
+- [[Biblioteca de Aplicaciones/Apps/lshw (Hardware Lister)|lshw (Hardware Lister)]]
+- [[Secrets]]
+### [[Indice maestro]]
+---
+#Aplicaciones 

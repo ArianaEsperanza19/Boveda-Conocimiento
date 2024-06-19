@@ -1,0 +1,201 @@
+{
+  "recentFiles": [
+    {
+      "basename": "Info de Biblioteca",
+      "path": "Plantillas/Info de Biblioteca.md"
+    },
+    {
+      "basename": "Indice maestro",
+      "path": "Indice maestro.md"
+    },
+    {
+      "basename": "Index_Enciclopedia",
+      "path": "Enciclopedia/Index_Enciclopedia.md"
+    },
+    {
+      "basename": "Crear ejecutable de archivo .appimage",
+      "path": "Enciclopedia/Utilidades/Crear ejecutable de archivo .appimage.md"
+    },
+    {
+      "basename": "Alias de comandos",
+      "path": "Enciclopedia/Conceptos/Alias de comandos.md"
+    },
+    {
+      "basename": "Mesa",
+      "path": "Bibliotecas del sistema/Biblios/Mesa.md"
+    },
+    {
+      "basename": "Index_app",
+      "path": "Biblioteca de Aplicaciones/Index_app.md"
+    },
+    {
+      "basename": "Visual Studio Code",
+      "path": "Biblioteca de Aplicaciones/Apps/Visual Studio Code.md"
+    },
+    {
+      "basename": "Virt Manager",
+      "path": "Biblioteca de Aplicaciones/Apps/Virt Manager.md"
+    },
+    {
+      "basename": "Tilix",
+      "path": "Biblioteca de Aplicaciones/Apps/Tilix.md"
+    },
+    {
+      "basename": "Telegram",
+      "path": "Biblioteca de Aplicaciones/Apps/Telegram.md"
+    },
+    {
+      "basename": "Syncthing",
+      "path": "Biblioteca de Aplicaciones/Apps/Syncthing.md"
+    },
+    {
+      "basename": "Stacer",
+      "path": "Biblioteca de Aplicaciones/Apps/Stacer.md"
+    },
+    {
+      "basename": "Secrets",
+      "path": "Biblioteca de Aplicaciones/Apps/Secrets.md"
+    },
+    {
+      "basename": "Red Note Book",
+      "path": "Biblioteca de Aplicaciones/Apps/Red Note Book.md"
+    },
+    {
+      "basename": "Flatpak",
+      "path": "Biblioteca de Aplicaciones/Apps/Flatpak.md"
+    },
+    {
+      "basename": "IBus",
+      "path": "Biblioteca de Aplicaciones/Apps/IBus.md"
+    },
+    {
+      "basename": "lshw (Hardware Lister)",
+      "path": "Biblioteca de Aplicaciones/Apps/lshw (Hardware Lister).md"
+    },
+    {
+      "basename": "Qemu",
+      "path": "Biblioteca de Aplicaciones/Apps/Qemu.md"
+    },
+    {
+      "basename": "Index_config",
+      "path": "Archivos de configuración del sistema/Index_config.md"
+    },
+    {
+      "basename": "Index_log",
+      "path": "Archivos de registro del sistema/Index_log.md"
+    },
+    {
+      "basename": "Historial de instalaciones apt",
+      "path": "Archivos de registro del sistema/Registro/Historial de instalaciones apt.md"
+    },
+    {
+      "basename": "Repositorios fuente de apt",
+      "path": "Archivos de configuración del sistema/Configuración/Repositorios fuente de apt.md"
+    },
+    {
+      "basename": "Configuracion del shell",
+      "path": "Archivos de configuración del sistema/Configuración/Configuracion del shell.md"
+    },
+    {
+      "basename": "Biblio Instaladas",
+      "path": "Aplicaciones y Bibliotecas instaladas/Biblio Instaladas.md"
+    },
+    {
+      "basename": "App Instaladas",
+      "path": "Aplicaciones y Bibliotecas instaladas/App Instaladas.md"
+    },
+    {
+      "basename": "Index_instaladas",
+      "path": "Aplicaciones y Bibliotecas instaladas/Index_instaladas.md"
+    },
+    {
+      "basename": "AppImage",
+      "path": "Enciclopedia/Conceptos/AppImage.md"
+    },
+    {
+      "basename": "Index_manejo_app_pack",
+      "path": "Biblioteca de Comandos/Comandos/Manejo de aplicaciones y paquetes/Index_manejo_app_pack.md"
+    },
+    {
+      "basename": "Ver aplicaciones instaladas",
+      "path": "Biblioteca de Comandos/Comandos/Manejo de aplicaciones y paquetes/Lineas de comando/Ver aplicaciones instaladas.md"
+    },
+    {
+      "basename": "Verificar si un paquete o app esta instalada en el sistema",
+      "path": "Biblioteca de Comandos/Comandos/Manejo de aplicaciones y paquetes/Lineas de comando/Verificar si un paquete o app esta instalada en el sistema.md"
+    },
+    {
+      "basename": "Lista dinámica de dependencias",
+      "path": "Biblioteca de Comandos/Comandos/Manejo de aplicaciones y paquetes/Lineas de comando/Lista dinámica de dependencias.md"
+    },
+    {
+      "basename": "Verificar dependencias de un paquete",
+      "path": "Biblioteca de Comandos/Comandos/Manejo de aplicaciones y paquetes/Lineas de comando/Verificar dependencias de un paquete.md"
+    },
+    {
+      "basename": "Mostrar aplicaciones del usuario especificado",
+      "path": "Biblioteca de Comandos/Comandos/Manejo de aplicaciones y paquetes/Lineas de comando/Mostrar aplicaciones del usuario especificado.md"
+    },
+    {
+      "basename": "Información sobre un paquete o aplicación",
+      "path": "Biblioteca de Comandos/Comandos/Manejo de aplicaciones y paquetes/Lineas de comando/Información sobre un paquete o aplicación.md"
+    },
+    {
+      "basename": "Muestra los paquetes de una aplicación",
+      "path": "Biblioteca de Comandos/Comandos/Manejo de aplicaciones y paquetes/Lineas de comando/Muestra los paquetes de una aplicación.md"
+    },
+    {
+      "basename": "Buscar y ejecutar actualizaciones para un programa",
+      "path": "Biblioteca de Comandos/Comandos/Manejo de aplicaciones y paquetes/Lineas de comando/Buscar y ejecutar actualizaciones para un programa.md"
+    },
+    {
+      "basename": "Limpiar archivos sueltos",
+      "path": "Biblioteca de Comandos/Comandos/Manejo de aplicaciones y paquetes/Lineas de comando/Limpiar archivos sueltos.md"
+    },
+    {
+      "basename": "Instala paquetes faltantes de una aplicación",
+      "path": "Biblioteca de Comandos/Comandos/Manejo de aplicaciones y paquetes/Lineas de comando/Instala paquetes faltantes de una aplicación.md"
+    },
+    {
+      "basename": "Agregar un repositorio Personal Package Archive (PPA)",
+      "path": "Biblioteca de Comandos/Comandos/Manejo de aplicaciones y paquetes/Lineas de comando/Agregar un repositorio Personal Package Archive (PPA).md"
+    },
+    {
+      "basename": "Listar aplicaciones que se correspondan con la búsqueda",
+      "path": "Biblioteca de Comandos/Comandos/Manejo de aplicaciones y paquetes/Lineas de comando/Listar aplicaciones que se correspondan con la búsqueda.md"
+    },
+    {
+      "basename": "Encontrar la ruta del ejecutable de una app",
+      "path": "Biblioteca de Comandos/Comandos/Manejo de aplicaciones y paquetes/Lineas de comando/Encontrar la ruta del ejecutable de una app.md"
+    },
+    {
+      "basename": "Encontrar ubicación de una aplicación",
+      "path": "Biblioteca de Comandos/Comandos/Manejo de aplicaciones y paquetes/Lineas de comando/Encontrar ubicación de una aplicación.md"
+    },
+    {
+      "basename": "Permite desanclar la ejecución de un programa a la terminal desde donde se ejecuta",
+      "path": "Biblioteca de Comandos/Comandos/Manejo de aplicaciones y paquetes/Lineas de comando/Permite desanclar la ejecución de un programa a la terminal desde donde se ejecuta.md"
+    },
+    {
+      "basename": "Purgar",
+      "path": "Biblioteca de Comandos/Comandos/Manejo de aplicaciones y paquetes/Lineas de comando/Purgar.md"
+    },
+    {
+      "basename": "Remover",
+      "path": "Biblioteca de Comandos/Comandos/Manejo de aplicaciones y paquetes/Lineas de comando/Remover.md"
+    },
+    {
+      "basename": "Index_comandos",
+      "path": "Biblioteca de Comandos/Comandos/Index_comandos.md"
+    },
+    {
+      "basename": "Instalar",
+      "path": "Biblioteca de Comandos/Comandos/Manejo de aplicaciones y paquetes/Lineas de comando/Instalar.md"
+    },
+    {
+      "basename": "Index_apps_biblios",
+      "path": "Biblioteca de Comandos/Comandos/Comandos de apps y biblios/Index_apps_biblios.md"
+    }
+  ],
+  "omittedPaths": []
+}
