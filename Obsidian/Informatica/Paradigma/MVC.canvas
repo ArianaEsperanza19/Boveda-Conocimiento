@@ -1,0 +1,16 @@
+{
+	"nodes":[
+		{"id":"bff5cd14b564e8a9","x":-445,"y":-700,"width":250,"height":200,"color":"5","type":"text","text":"**Autoload**\nEste requiere todos los controladores guardados en la carpeta 'controllers' para el uso del fichero donde se utilice."},
+		{"id":"51a11759cc29bf24","x":-80,"y":-700,"width":380,"height":200,"color":"4","type":"text","text":"**Index**\nUsa Autoload para cargar los controladores.\nRecibe los parametros por Url para determinar si la clase y el metodo existen en 'controllers' para luego instanciarlos y ejecutarlos."},
+		{"id":"77511f1003c62d49","type":"text","text":"**Controlador**\nRecibe la llamada del index y ejecuta su lógica, sirviéndose de los modelos para realizar sus tareas.","x":-15,"y":-440,"width":250,"height":180,"color":"#1233d9"},
+		{"id":"0854741f265f0dc0","type":"text","text":"**Modelo**\nSon llamados por sus respectivos controladores para realizar tareas especificas. Pueden o no, devolver un resultado.","x":-445,"y":-460,"width":250,"height":220,"color":"#ffeb0a"},
+		{"id":"f142f90e269f8334","type":"text","text":"Vista\nEs requerido por el controlador para mostrar en pantalla el resultado de las maquinaciones del controlador y los modelos.","x":-220,"y":-180,"width":250,"height":220,"color":"1"}
+	],
+	"edges":[
+		{"id":"a1fe73bbb19b4f93","fromNode":"bff5cd14b564e8a9","fromSide":"right","toNode":"51a11759cc29bf24","toSide":"left"},
+		{"id":"ea773bf671dcc304","fromNode":"51a11759cc29bf24","fromSide":"bottom","toNode":"77511f1003c62d49","toSide":"top"},
+		{"id":"7191f212fb164f58","fromNode":"77511f1003c62d49","fromSide":"left","toNode":"0854741f265f0dc0","toSide":"right"},
+		{"id":"4b8af4352b77a942","fromNode":"77511f1003c62d49","fromSide":"bottom","toNode":"f142f90e269f8334","toSide":"right"},
+		{"id":"52648326d068e6a2","fromNode":"0854741f265f0dc0","fromSide":"bottom","toNode":"f142f90e269f8334","toSide":"left"}
+	]
+}

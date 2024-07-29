@@ -1,0 +1,17 @@
+- [[Archivos]]
+- [[Arreglos]]
+- [[Casos]]
+- [[Ciclo while]]
+- [[Ciclo for]]
+- [[Condicionales]]
+- [[Directorios]]
+- [[Entrada]]
+- [[Funciones]]
+- [[Operaciones aritméticas]]
+- [[Operadores relacionales]]
+- [[Parametros|Parámetros ]]
+- [[Random]]
+- [[String]]
+- [[Variables|Variables]]
+### [[Index-Lenguajes|Regresar]] a indice de lenguajes.
+#lenguajes #bash #index 
