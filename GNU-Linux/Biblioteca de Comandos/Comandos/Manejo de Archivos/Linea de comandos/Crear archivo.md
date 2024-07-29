@@ -2,4 +2,7 @@
 ---
 # cat>*archivo.extension*
 
-### [[Index_archivos|Volver]]
+### Regresar a: 
+[[Index_archivos| Indice de comandos de archivos]]
+
+#Comandos 

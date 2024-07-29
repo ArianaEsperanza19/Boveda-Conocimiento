@@ -25,3 +25,8 @@
 ---
 # Repositorios
 - [[Agregar un repositorio Personal Package Archive (PPA)| Agregar un repositorio Personal Package Archive (PPA)]]
+---
+### Regresar a:
+[[Index_comandos|Indice de comandos]]
+
+#Comandos 

@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "f1df8ba5c5fd0484",
+        "id": "efcf4621942dc167",
         "type": "tabs",
         "children": [
           {
-            "id": "6cd381b6cd2b63f6",
+            "id": "c6c5a7414608a499",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Biblioteca de Comandos/Comandos/Comandos de apps y biblios/App/Vim.md",
+                "mode": "preview",
+                "source": false
+              }
             }
           }
         ]
@@ -44,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Aplicaciones",
+                "query": "vim",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -89,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Biblioteca de Comandos/Comandos/Comandos de apps y biblios/App/Vim.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Biblioteca de Comandos/Comandos/Comandos de apps y biblios/App/Vim.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Biblioteca de Comandos/Comandos/Comandos de apps y biblios/App/Vim.md"
+              }
             }
           },
           {
@@ -153,43 +161,43 @@
       "daily-notes:Abrir la nota de hoy": false,
       "templates:Insertar plantilla": false,
       "command-palette:Abrir paleta de comandos": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "6cd381b6cd2b63f6",
+  "active": "c6c5a7414608a499",
   "lastOpenFiles": [
-    "Plantillas/Prueba.md",
-    "Untitled 2024-06-18 01.30.51.excalidraw.md",
-    "Plantillas/Info de Biblioteca.md",
-    "Indice maestro.md",
-    "Enciclopedia/Index_Enciclopedia.md",
-    "Enciclopedia/Utilidades/Crear ejecutable de archivo .appimage.md",
-    "Enciclopedia/Conceptos/Alias de comandos.md",
-    "Bibliotecas del sistema/Biblios/Mesa.md",
-    "Biblioteca de Aplicaciones/Index_app.md",
-    "Biblioteca de Aplicaciones/Apps/Visual Studio Code.md",
-    "Biblioteca de Aplicaciones/Apps/Virt Manager.md",
-    "Biblioteca de Aplicaciones/Apps/Tilix.md",
-    "Biblioteca de Aplicaciones/Apps/Telegram.md",
-    "Biblioteca de Aplicaciones/Apps/Syncthing.md",
-    "Biblioteca de Aplicaciones/Apps/Stacer.md",
-    "Biblioteca de Aplicaciones/Apps/Secrets.md",
-    "Biblioteca de Aplicaciones/Apps/Red Note Book.md",
-    "Biblioteca de Aplicaciones/Apps/Flatpak.md",
-    "Biblioteca de Aplicaciones/Apps/IBus.md",
-    "Biblioteca de Aplicaciones/Apps/lshw (Hardware Lister).md",
-    "Biblioteca de Aplicaciones/Apps/Qemu.md",
+    "Biblioteca de Aplicaciones/Apps/Vim.md",
+    "Aplicaciones y Bibliotecas instaladas/App Instaladas.md",
+    "Aplicaciones y Bibliotecas instaladas/Index_instaladas.md",
     "Archivos de configuración del sistema/Index_config.md",
-    "Archivos de registro del sistema/Index_log.md",
-    "Archivos de registro del sistema/Registro/Historial de instalaciones apt.md",
-    "Archivos de configuración del sistema/Configuración/Repositorios fuente de apt.md",
     "Archivos de configuración del sistema/Configuración/Configuracion del shell.md",
+    "Archivos de configuración del sistema/Index-config.md",
+    "Biblioteca de Aplicaciones/Index_app.md",
+    "Indice maestro.md",
+    "Biblioteca de Comandos/Comandos/Comandos de apps y biblios/App/Vim.md",
+    "Enciclopedia/Utilidades/Crear Host Virtual.md",
+    "Enciclopedia/Utilidades/Crear variable de entorno permanente.md",
+    "Biblioteca de Aplicaciones/Apps/Xampp.md",
+    "Enciclopedia/Conceptos/Permisos y privilegios.md",
+    "Enciclopedia/Index_Enciclopedia.md",
+    "Biblioteca de Comandos/Comandos/Sistema/Index_sistema.md",
+    "Biblioteca de Comandos/Comandos/Sistema/Linea de comandos/Permisos varios.md",
+    "Biblioteca de Comandos/Comandos/Index_comandos.md",
+    "Bibliotecas del sistema/Index_biblios.md",
+    "Biblioteca de Comandos/Comandos/Comandos de apps y biblios/Index_apps_biblios.md",
+    "Biblioteca de Comandos/Comandos/Sistema/Linea de comandos/Dar permisos y privilegios.md",
+    "Biblioteca de Comandos/Comandos/Manejo de Archivos/Linea de comandos/Estructura de busqueda.md",
+    "Enciclopedia/Conceptos/Bash.md",
+    "Biblioteca de Comandos/Comandos/Sistema/Linea de comandos/Adueñarse de archivo o carpeta.md",
+    "Biblioteca de Comandos/Comandos/Sistema/Linea de comandos/Ver permisos y privilegios.md",
+    "Biblioteca de Comandos/Comandos/Manejo de Archivos/Index_archivos.md",
+    "Biblioteca de Comandos/Comandos/Index_directorios.md",
+    "Enciclopedia/Conceptos/Anexos/Particiones.png",
     "Enciclopedia/Conceptos/Anexos/ShellScripting.png",
     "Enciclopedia/Conceptos/Anexos",
     "Enciclopedia/Utilidades",
     "Enciclopedia/Conceptos",
-    "Enciclopedia/Conceptos/Anexos/Particiones.png",
     "Enciclopedia/Anexos",
     "Biblioteca de Comandos/Comandos/Sistema/Linea de comandos",
     "Biblioteca de Comandos/Comandos/Sistema",

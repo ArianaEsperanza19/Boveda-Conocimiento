@@ -28,6 +28,7 @@
 | man             | Manual                          | man                 |
 ### Regresar a:
 [[Index_Enciclopedia|Indice de la enciclopedia]]
+[[Index_Enciclopedia]]
 [[Indice maestro]]
 
 #Enciclopedia #Comandos 

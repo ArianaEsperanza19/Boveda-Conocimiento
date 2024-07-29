@@ -22,6 +22,10 @@
 - `-mtime -N`: Busca archivos que se hayan modificado hace menos de N días.
 - `-atime +N`: Busca archivos que se hayan accedido hace N días o más.
 - `-atime -N`: Busca archivos que se hayan accedido hace menos de N días.
-- `-perm NNN`: Busca archivos con permisos específicos. Los permisos se especifican como un número octal de 3 dígitos, donde cada dígito representa los permisos para el propietario, el grupo y otros usuarios.
+- `-perm NNN`: Busca archivos con permisos específicos. Los permisos se especifican como un número octal de 3 dígitos, donde cada dígito representa los [[Permisos y privilegios|permisos]] para el propietario, el grupo y otros usuarios.
 ### Nota:
 `Si no devuelve nada, es posible que quieras verificar si el directorio esta correctamente escrito. La dirección debe terminar con un /`
+### Regresar a: 
+[[Index_archivos| Indice de comandos de archivos]]
+
+#Comandos 

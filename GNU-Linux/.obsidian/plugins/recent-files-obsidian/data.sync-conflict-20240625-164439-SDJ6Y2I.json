@@ -1,0 +1,205 @@
+{
+  "recentFiles": [
+    {
+      "basename": "App Instaladas",
+      "path": "Aplicaciones y Bibliotecas instaladas/App Instaladas.md"
+    },
+    {
+      "basename": "Index_instaladas",
+      "path": "Aplicaciones y Bibliotecas instaladas/Index_instaladas.md"
+    },
+    {
+      "basename": "Indice maestro",
+      "path": "Indice maestro.md"
+    },
+    {
+      "basename": "EFI (Extensible Firmware Interface)",
+      "path": "Enciclopedia/Conceptos/EFI (Extensible Firmware Interface).md"
+    },
+    {
+      "basename": "Index_Enciclopedia",
+      "path": "Enciclopedia/Index_Enciclopedia.md"
+    },
+    {
+      "basename": "Particiones del disco",
+      "path": "Enciclopedia/Conceptos/Particiones del disco.md"
+    },
+    {
+      "basename": "Permisos y privilegios",
+      "path": "Enciclopedia/Conceptos/Permisos y privilegios.md"
+    },
+    {
+      "basename": "Imprimir una variable de entorno especifica",
+      "path": "Biblioteca de Comandos/Comandos/Sistema/Linea de comandos/Imprimir una variable de entorno especifica.md"
+    },
+    {
+      "basename": "Index_sistema",
+      "path": "Biblioteca de Comandos/Comandos/Sistema/Index_sistema.md"
+    },
+    {
+      "basename": "Ver variables de entorno",
+      "path": "Biblioteca de Comandos/Comandos/Sistema/Linea de comandos/Ver variables de entorno.md"
+    },
+    {
+      "basename": "Index_comandos",
+      "path": "Biblioteca de Comandos/Comandos/Index_comandos.md"
+    },
+    {
+      "basename": "Index_directorios",
+      "path": "Biblioteca de Comandos/Comandos/Manejo de Directorios/Index_directorios.md"
+    },
+    {
+      "basename": "Ver lo que hay en el directorio",
+      "path": "Biblioteca de Comandos/Comandos/Manejo de Directorios/Linea de comandos/Ver lo que hay en el directorio.md"
+    },
+    {
+      "basename": "Ver directorios dentro de otro directorio",
+      "path": "Biblioteca de Comandos/Comandos/Manejo de Directorios/Linea de comandos/Ver directorios dentro de otro directorio.md"
+    },
+    {
+      "basename": "Index_archivos",
+      "path": "Biblioteca de Comandos/Comandos/Manejo de Archivos/Index_archivos.md"
+    },
+    {
+      "basename": "Index_biblios",
+      "path": "Bibliotecas del sistema/Index_biblios.md"
+    },
+    {
+      "basename": "Buscar en la base de datos de páginas del manual",
+      "path": "Biblioteca de Comandos/Comandos/Sistema/Linea de comandos/Buscar en la base de datos de páginas del manual.md"
+    },
+    {
+      "basename": "Variables de entorno",
+      "path": "Enciclopedia/Conceptos/Variables de entorno.md"
+    },
+    {
+      "basename": "Ver el shell",
+      "path": "Biblioteca de Comandos/Comandos/Sistema/Linea de comandos/Ver el shell.md"
+    },
+    {
+      "basename": "Número de nucleos",
+      "path": "Biblioteca de Comandos/Comandos/Sistema/Linea de comandos/Número de nucleos.md"
+    },
+    {
+      "basename": "Información del cpu",
+      "path": "Biblioteca de Comandos/Comandos/Sistema/Linea de comandos/Información del cpu.md"
+    },
+    {
+      "basename": "Ver audio codec del equipo",
+      "path": "Biblioteca de Comandos/Comandos/Sistema/Linea de comandos/Ver audio codec del equipo.md"
+    },
+    {
+      "basename": "Arquitectura del procesador",
+      "path": "Biblioteca de Comandos/Comandos/Sistema/Linea de comandos/Arquitectura del procesador.md"
+    },
+    {
+      "basename": "Agregar usuario a grupo",
+      "path": "Biblioteca de Comandos/Comandos/Sistema/Linea de comandos/Agregar usuario a grupo.md"
+    },
+    {
+      "basename": "Establecer contraseña root",
+      "path": "Biblioteca de Comandos/Comandos/Sistema/Linea de comandos/Establecer contraseña root.md"
+    },
+    {
+      "basename": "Iniciar sesion como root en el terminal",
+      "path": "Biblioteca de Comandos/Comandos/Sistema/Linea de comandos/Iniciar sesion como root en el terminal.md"
+    },
+    {
+      "basename": "Grupo(s) actual(es) a los que pertenece el usuario",
+      "path": "Biblioteca de Comandos/Comandos/Sistema/Linea de comandos/Grupo(s) actual(es) a los que pertenece el usuario.md"
+    },
+    {
+      "basename": "Usuario actual",
+      "path": "Biblioteca de Comandos/Comandos/Sistema/Linea de comandos/Usuario actual.md"
+    },
+    {
+      "basename": "Liberar caché",
+      "path": "Biblioteca de Comandos/Comandos/Sistema/Linea de comandos/Liberar caché.md"
+    },
+    {
+      "basename": "Actualizar",
+      "path": "Biblioteca de Comandos/Comandos/Sistema/Linea de comandos/Actualizar.md"
+    },
+    {
+      "basename": "Aplicaciones actualizables",
+      "path": "Biblioteca de Comandos/Comandos/Sistema/Linea de comandos/Aplicaciones actualizables.md"
+    },
+    {
+      "basename": "Buscar actualizaciones",
+      "path": "Biblioteca de Comandos/Comandos/Sistema/Linea de comandos/Buscar actualizaciones.md"
+    },
+    {
+      "basename": "Adueñarse de archivo o carpeta",
+      "path": "Biblioteca de Comandos/Comandos/Sistema/Linea de comandos/Adueñarse de archivo o carpeta.md"
+    },
+    {
+      "basename": "Permisos varios",
+      "path": "Biblioteca de Comandos/Comandos/Sistema/Linea de comandos/Permisos varios.md"
+    },
+    {
+      "basename": "Dar permisos y privilegios",
+      "path": "Biblioteca de Comandos/Comandos/Sistema/Linea de comandos/Dar permisos y privilegios.md"
+    },
+    {
+      "basename": "Ver procesos",
+      "path": "Biblioteca de Comandos/Comandos/Sistema/Linea de comandos/Ver procesos.md"
+    },
+    {
+      "basename": "Mostrar árbol de procesos",
+      "path": "Biblioteca de Comandos/Comandos/Sistema/Linea de comandos/Mostrar árbol de procesos.md"
+    },
+    {
+      "basename": "Matar proceso",
+      "path": "Biblioteca de Comandos/Comandos/Sistema/Linea de comandos/Matar proceso.md"
+    },
+    {
+      "basename": "Reinstalar escritorio",
+      "path": "Biblioteca de Comandos/Comandos/Sistema/Linea de comandos/Reinstalar escritorio.md"
+    },
+    {
+      "basename": "Suspender",
+      "path": "Biblioteca de Comandos/Comandos/Sistema/Linea de comandos/Suspender.md"
+    },
+    {
+      "basename": "Hibernar",
+      "path": "Biblioteca de Comandos/Comandos/Sistema/Linea de comandos/Hibernar.md"
+    },
+    {
+      "basename": "Los sistemas de archivos montados",
+      "path": "Biblioteca de Comandos/Comandos/Sistema/Linea de comandos/Los sistemas de archivos montados.md"
+    },
+    {
+      "basename": "Mostrar espacio ocupado por elemento señalado en la ruta",
+      "path": "Biblioteca de Comandos/Comandos/Sistema/Linea de comandos/Mostrar espacio ocupado por elemento señalado en la ruta.md"
+    },
+    {
+      "basename": "Mostrar tamaño de las unidades legibles por humanos",
+      "path": "Biblioteca de Comandos/Comandos/Sistema/Linea de comandos/Mostrar tamaño de las unidades legibles por humanos.md"
+    },
+    {
+      "basename": "Información básica del sistema",
+      "path": "Biblioteca de Comandos/Comandos/Sistema/Linea de comandos/Información básica del sistema.md"
+    },
+    {
+      "basename": "Index_app",
+      "path": "Biblioteca de Aplicaciones/Index_app.md"
+    },
+    {
+      "basename": "Configuracion del shell",
+      "path": "Archivos de configuración del sistema/Configuración/Configuracion del shell.md"
+    },
+    {
+      "basename": "Index_manejo_app_pack",
+      "path": "Biblioteca de Comandos/Comandos/Manejo de aplicaciones y paquetes/Index_manejo_app_pack.md"
+    },
+    {
+      "basename": "Index_apps_biblios",
+      "path": "Biblioteca de Comandos/Comandos/Comandos de apps y biblios/Index_apps_biblios.md"
+    },
+    {
+      "basename": "lshw (Hardware Lister)",
+      "path": "Biblioteca de Comandos/Comandos/Comandos de apps y biblios/App/lshw (Hardware Lister).md"
+    }
+  ],
+  "omittedPaths": []
+}

@@ -21,3 +21,7 @@
 - [[Abrir carpeta]]
 - [[Copiar carpeta y su contenido]]
 ---
+### Regresar a:
+[[Index_comandos|Indice de comandos]]
+
+#Comandos 

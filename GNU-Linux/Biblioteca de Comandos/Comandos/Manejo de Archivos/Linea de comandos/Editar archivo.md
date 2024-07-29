@@ -1,4 +1,7 @@
 # nano *archivo.extension*
 #### Editar fichero en el propio terminal.
 
-### [[Index_archivos|Volver]]
+### Regresar a: 
+[[Index_archivos| Indice de comandos de archivos]]
+
+#Comandos 

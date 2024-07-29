@@ -10,4 +10,8 @@
 
 ## Comandos de [[]]
 
-# [[Index_app|Volver al índice]]
+### Regresar a:
+[[Index_app|Indice de Aplicaciones]]
+[[Index_instaladas|Indice de Aplicaciones Instaladas]]
+
+#Aplicaciones 

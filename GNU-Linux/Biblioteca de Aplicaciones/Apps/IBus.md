@@ -8,6 +8,7 @@ Repositorios apt.
 [https://github.com/ibus/ibus](https://github.com/ibus/ibus)
 # Instalación
 sudo apt install ibus ibus-m17n ibus m17n-db
+sudo apt-get install ibus-anthy
 # Función
 IBus es un marco de entrada de método inteligente (IM) para sistemas operativos Linux. Permite a los usuarios cambiar fácilmente entre diferentes métodos de entrada de texto, como teclados fonéticos, teclados de símbolos y teclados de idiomas extranjeros. IBus también proporciona soporte para la entrada de escritura a mano y la entrada de voz.
 ## Comandos de [[Biblioteca de Comandos/Comandos/Comandos de apps y biblios/App/IBus|IBus]]

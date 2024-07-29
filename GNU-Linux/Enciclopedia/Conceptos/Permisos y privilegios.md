@@ -1,36 +1,42 @@
-|Permisos por letras||
-|---|---|
-|Escritura|w||
-|Ejecución y acceso|x||
-|Lectura|r||
+# Notación mnemónica
 
-|Permisos numéricos||
-|---|---|
-|0|Ninguno.|
-|1|Ejecución.|
-|2|Escritura.|
-|4|Lectura.|
-|3|Ejecución y escritura.|
-|6|Lectura y escritura.|
-|5|Lectura y ejecución.|
-|7|Todo.|
+| Carácter | Permiso            |
+| -------- | ------------------ |
+| w        | Escritura          |
+| x        | Ejecución y acceso |
+| r        | Lectura            |
+| -        | ninguno            |
+**Orden de los permisos:** -rwx o drwx según sea un archivo o un directorio respectivamente. Son tres rwx (usuario, grupo y otros) y un guion (salvo el primero) por cada permiso no otorgado.
+**Ejemplo:** 
+`rw-r--`: Permisos de lectura y escritura para el propietario, permiso de lectura para el grupo y sin permisos para otros usuarios.
+# Notación octal
 
-|Orden de los permisos||
-|---|---|
-|Orden de los permisos por letras.|-rwx o drwx según sea un archivo o un directorio.|
-|Orden numérico de los permisos| 1ro para usuario, 2do del grupo, 3ro de otros.|
-|Dígitos|El primer dígito es para el propietario del archivo.<br><br>El segundo dígito es para el grupo al que pertenece el archivo.<br><br>El tercer dígito representa a otros usuarios.|
+| Dígito | Permiso | Descripción                    | Propietario | Grupo | Otros |
+| ------ | ------- | ------------------------------ | ----------- | ----- | ----- |
+| 0      | -       | Sin permiso                    | -           | -     | -     |
+| 1      | x       | Ejecución                      | x           | -     | -     |
+| 2      | w       | Escritura                      | -           | w     | -     |
+| 3      | wx      | Escritura y ejecución          | x           | w     | -     |
+| 4      | r       | Lectura                        | r           | -     | -     |
+| 5      | rx      | Lectura y ejecución            | r           | x     | -     |
+| 6      | rw      | Lectura y escritura            | r           | w     | -     |
+| 7      | rwx     | Lectura, escritura y ejecución | r           | w     | x     |
+**Orden de los permisos:**
+- El primer dígito es para el propietario del archivo.
+- El segundo dígito es para el grupo al que pertenece el archivo.
+- El tercer dígito representa a otros usuarios.
 
-|Algunos permisos||
-|---|---|
-|777|El propietario, el grupo y cualquier otro usuario tienen permisos completos sobre el archivo o directorio en cuestión.|
-|755|Concede: lectura, escritura y ejecución.|
-|750|- El propietario tiene permisos de lectura, escritura y ejecución.<br><br>- El grupo tiene permisos de lectura y ejecución.<br><br>- Otros usuarios no tienen ningún permiso.|
-|700|Permisos para el propietario pero no para grupos u otros.|
-|644|- El propietario tiene permisos de lectura y escritura.<br><br>- El grupo tiene permisos de lectura.<br><br>- Otros usuarios tienen permisos de lectura.|
-|640|- El propietario tiene permisos de lectura y escritura.<br><br>- El grupo tiene permisos de lectura.<br><br>- Otros usuarios no tienen ningún permiso.|
-|600|Permisos de lectura y escritura solo para el propietario.|
+| Permisos | Descripción                                                                                                                                  |
+| -------- | -------------------------------------------------------------------------------------------------------------------------------------------- |
+| **777**  | Permisos completos para todos: propietario, grupo y otros usuarios. Lectura, escritura y ejecución para todos.                               |
+| **755**  | Permisos completos para el propietario: lectura, escritura y ejecución. Lectura y ejecución para el grupo y otros usuarios.                  |
+| **750**  | Permisos completos para el propietario: lectura, escritura y ejecución. Lectura y ejecución para el grupo. Sin permisos para otros usuarios. |
+| **700**  | Permisos completos para el propietario: lectura, escritura y ejecución. Sin permisos para el grupo ni para otros usuarios.                   |
+| **644**  | El propietario tiene permisos de lectura y escritura. El grupo tiene permiso de lectura. Otros usuarios tienen permiso de lectura.           |
+| **640**  | El propietario tiene permisos de lectura y escritura. El grupo tiene permiso de lectura. Otros usuarios no tienen ningún permiso.            |
+| **600**  | Permisos de lectura y escritura solo para el propietario.                                                                                    |
 
+[[Dar permisos y privilegios|Como dar permisos y privilegios a un usuario]]
 ### Regresar a:
 [[Index_Enciclopedia|Indice de la enciclopedia]]
 [[Indice maestro]]

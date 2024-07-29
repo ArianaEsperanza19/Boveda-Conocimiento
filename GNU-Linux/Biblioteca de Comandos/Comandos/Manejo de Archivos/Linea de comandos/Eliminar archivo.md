@@ -6,4 +6,7 @@
 ---
 # rm *archivo.*\*
 #### Elimina todos los archivos que cumplan con el patrón.
-### [[Index_archivos|Volver]]
+### Regresar a: 
+[[Index_archivos| Indice de comandos de archivos]]
+
+#Comandos 

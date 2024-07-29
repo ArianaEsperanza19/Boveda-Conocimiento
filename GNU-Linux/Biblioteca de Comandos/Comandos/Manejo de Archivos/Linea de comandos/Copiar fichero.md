@@ -7,4 +7,7 @@
 # cp *archivo.extension* *directorios/carpetaDestino/nuevoNombreDeArchivo.extension*
 #### Copiar y cambiar de nombre un archivo, a continuación se lo coloca en la carpeta de un directorio especificado.
 
-### [[Index_archivos|Volver]]
+### Regresar a: 
+[[Index_archivos| Indice de comandos de archivos]]
+
+#Comandos 

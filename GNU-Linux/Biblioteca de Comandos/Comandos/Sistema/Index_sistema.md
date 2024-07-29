@@ -1,7 +1,7 @@
 - [[Información básica del sistema]]
 - [[Mostrar tamaño de las unidades legibles por humanos]]
 - [[Mostrar espacio ocupado por elemento señalado en la ruta]]
-- [[Buscar comandos relacionados con una palabra clave]]
+- [[Buscar en la base de datos de páginas del manual]]
 - [[Los sistemas de archivos montados]]
 - [[Hibernar]]
 - [[Suspender]]
@@ -17,6 +17,7 @@
 ---
 # Permisos y Privilegios
 - [[Dar permisos y privilegios]]
+- [[Ver permisos y privilegios]]
 - [[Permisos varios]]
 - [[Adueñarse de archivo o carpeta]]
 ---
@@ -39,3 +40,13 @@
 - [[Información del cpu]]
 - [[Número de nucleos]]
 - [[Ver el shell]]
+---
+# Variables de entorno
+- [[Ver variables de entorno]]
+- [[Imprimir una variable de entorno especifica]]
+- [[Crear variable de entorno]]
+---
+### Regresar a:
+[[Index_comandos|Indice de comandos]]
+
+#Comandos 

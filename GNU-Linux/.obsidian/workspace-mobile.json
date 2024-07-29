@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "fc6697aac2ea5adb",
+        "id": "9e1ef4b0eb250b52",
         "type": "tabs",
         "children": [
           {
-            "id": "f0456b5a3121ed50",
+            "id": "cb1b9598a031e2be",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Enciclopedia/Utilidades/Crear ejecutable de archivo .appimage.md",
+                "file": "Biblioteca de Comandos/Comandos/Comandos de apps y biblios/App/Vim.md",
                 "mode": "preview",
                 "source": false
               }
@@ -71,6 +71,14 @@
           "type": "bookmarks",
           "state": {}
         }
+      },
+      {
+        "id": "5c063d9f28a57ea5",
+        "type": "leaf",
+        "state": {
+          "type": "recent-files",
+          "state": {}
+        }
       }
     ],
     "currentTab": 0
@@ -85,7 +93,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Enciclopedia/Utilidades/Crear ejecutable de archivo .appimage.md",
+            "file": "Biblioteca de Comandos/Comandos/Comandos de apps y biblios/App/Vim.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +110,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Enciclopedia/Utilidades/Crear ejecutable de archivo .appimage.md",
+            "file": "Biblioteca de Comandos/Comandos/Comandos de apps y biblios/App/Vim.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +122,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Enciclopedia/Utilidades/Crear ejecutable de archivo .appimage.md"
+            "file": "Biblioteca de Comandos/Comandos/Comandos de apps y biblios/App/Vim.md"
           }
         }
       }
@@ -129,39 +137,41 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "f0456b5a3121ed50",
+  "active": "cb1b9598a031e2be",
   "lastOpenFiles": [
-    "Enciclopedia/Conceptos/AppImage.md",
-    "Plantillas/Prueba.md",
-    "Plantillas/Anexos/Untitled 2024-06-18 01.30.51.excalidraw.md",
-    "Plantillas/Anexos",
-    "Excalidraw/Drawing 2024-06-18 01.30.12.excalidraw.md",
-    "Plantillas/Info de Aplicación.md",
-    "Excalidraw",
+    "Biblioteca de Aplicaciones/Apps/Vim.md",
+    "Aplicaciones y Bibliotecas instaladas/App Instaladas.md",
+    "Aplicaciones y Bibliotecas instaladas/Index_instaladas.md",
     "Indice maestro.md",
-    "Excalidraw/Drawing 2024-06-18 01.29.05.excalidraw.md",
-    "Excalidraw/Drawing 2024-06-18 01.28.32.excalidraw.md",
-    "Excalidraw/Drawing 2024-06-18 01.26.10.excalidraw.md",
-    "Enciclopedia/Diccionario.md",
-    "Enciclopedia/Permisos y privilegios.md",
-    "Enciclopedia/Particiones del disco.md",
-    "Biblioteca de Comandos/Comandos/Index_comandos.md",
-    "Biblioteca de Comandos/Comandos/Sistema/Index_sistema.md",
-    "Biblioteca de Comandos/Comandos/Sistema/Linea de comandos/Ver audio codec del equipo.md",
-    "Biblioteca de Comandos/Comandos/Index_sistema.md",
+    "Enciclopedia/Conceptos/Shell.md",
+    "Enciclopedia/Index_Enciclopedia.md",
+    "Enciclopedia/Utilidades/Establecer Alias.md",
+    "Archivos de configuración del sistema/Configuración/Configuracion del shell.md",
+    "Archivos de configuración del sistema/Index_config.md",
+    "Bibliotecas del sistema/Biblios/Mesa.md",
     "Bibliotecas del sistema/Index_biblios.md",
-    "Biblioteca de Comandos/Comandos/Comandos de apps y biblios/Index_apps_biblios.md",
-    "Biblioteca de Comandos/Comandos/Sistema/Linea de comandos/Buscar actualizaciones.md",
+    "Enciclopedia/Conceptos/EFI (Extensible Firmware Interface).md",
+    "Biblioteca de Comandos/Comandos/Index_comandos.md",
+    "Enciclopedia/Utilidades/Crear ejecutable de archivo .appimage.md",
+    "Archivos de registro del sistema/Registro/Historial de instalaciones apt.md",
+    "Biblioteca de Comandos/Comandos/Sistema/Linea de comandos/Mostrar espacio ocupado por elemento señalado en la ruta.md",
+    "Biblioteca de Comandos/Comandos/Sistema/Index_sistema.md",
     "Biblioteca de Comandos/Comandos/Sistema/Linea de comandos/Información del cpu.md",
-    "Biblioteca de Comandos/Comandos/Sistema/Linea de comandos/Buscar comandos relacionados con una palabra clave.md",
-    "Biblioteca de Comandos/Comandos/Sistema/Linea de comandos/Ver procesos.md",
-    "Biblioteca de Comandos/Comandos/Sistema/Linea de comandos/Mostrar árbol de procesos.md",
-    "Biblioteca de Comandos/Comandos/Sistema/Linea de comandos/Permisos varios.md",
-    "Biblioteca de Comandos/Comandos/Sistema/Linea de comandos/Grupo(s) actual(es) a los que pertenece el usuario.md",
-    "Biblioteca de Comandos/Comandos/Sistema/Linea de comandos/Hibernar.md",
+    "Enciclopedia/Conceptos/Index_Enciclopedia.md",
+    "Enciclopedia/Conceptos/Diccionario.md",
+    "Biblioteca de Comandos/Comandos/Manejo de Directorios/Index_directorios.md",
+    "Enciclopedia/Conceptos/Demonios.md",
+    "Biblioteca de Comandos/Comandos/Manejo de Directorios/Linea de comandos/Ver todos los directorios.md",
+    "Biblioteca de Comandos/Comandos/Manejo de Archivos/Linea de comandos/Estructura de busqueda.md",
+    "Biblioteca de Comandos/Comandos/Manejo de Archivos/Index_archivos.md",
+    "Biblioteca de Comandos/Comandos/Manejo de Archivos/Linea de comandos/Localizar archivo.md",
+    "Excalidraw",
+    "Untitled.canvas",
+    "Plantillas/Anexos",
     "Biblioteca de Comandos/Comandos/Sistema/Linea de comandos",
     "Biblioteca de Comandos/Comandos/Sistema",
     "Enciclopedia",

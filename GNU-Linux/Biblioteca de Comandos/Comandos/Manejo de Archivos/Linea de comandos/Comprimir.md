@@ -7,7 +7,10 @@
 #### Comprime UN archivo en la ruta dada y especifica su nuevo nombre, así como el directorio donde será creado.
 ---
 #### Notas: Es posible que la herramienta para comprimir a .zip no venga por defecto en la distribución Linux que estés usando.
-# zip -r *Nuevoarchivo.zip* *directorio/carpeta|fichero*
+# zip -r *Nuevoarchivo.zip* *directorio/carpeta/fichero*
 #### Crear comprimido .zip de la carpeta (o archivo) señalada.
 
-### [[Index_archivos|Volver]]
+### Regresar a: 
+[[Index_archivos| Indice de comandos de archivos]]
+
+#Comandos 

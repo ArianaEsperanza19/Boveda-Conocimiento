@@ -18,3 +18,8 @@
 # Buscar
 - [[Estructura de busqueda]]
 - [[Localizar archivo]]
+---
+### Regresar a:
+[[Index_comandos|Indice de comandos]]
+
+#Comandos 

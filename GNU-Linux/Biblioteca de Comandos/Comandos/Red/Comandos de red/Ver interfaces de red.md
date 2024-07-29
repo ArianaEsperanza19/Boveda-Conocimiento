@@ -1,2 +1,4 @@
 # ifconfig
-### [[Index_red|Volver]]
+### [[Index_red|Volver a comandos de red]]
+
+#Comandos 

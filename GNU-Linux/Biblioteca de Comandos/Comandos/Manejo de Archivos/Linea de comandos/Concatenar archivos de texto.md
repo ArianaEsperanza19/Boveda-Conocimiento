@@ -3,4 +3,7 @@
 ---
 # cat *archivo1* » *archivo2*
 #### Le suma el texto del archivo 1 al final del archivo 2.
-### [[Index_archivos|Volver]]
+### Regresar a: 
+[[Index_archivos| Indice de comandos de archivos]]
+
+#Comandos 

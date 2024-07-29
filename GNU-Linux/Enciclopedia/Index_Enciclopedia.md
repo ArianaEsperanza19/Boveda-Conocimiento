@@ -4,15 +4,14 @@
 - [[Bash]]
 - [[Demonios]]
 - [[Diccionario]]
+- [[EFI (Extensible Firmware Interface)|EFI]]
 - [[Opciones]]
 - [[Particiones del disco]]
 - [[Permisos y privilegios]]
 - [[Shell]]
 - [[Variables de entorno]]
----
 # Utilidades
 - [[Crear ejecutable de archivo .appimage]]
+- [[Crear variable de entorno permanente]]
 - [[Establecer Alias]]
 ### [[Indice maestro]]
----
-#Enciclopedia 

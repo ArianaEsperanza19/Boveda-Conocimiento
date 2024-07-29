@@ -9,3 +9,7 @@
 ---
 # find . -atime +30
 #### Buscar todos los archivos a los que no se halla accedido en 30 días.
+### Regresar a: 
+[[Index_archivos| Indice de comandos de archivos]]
+
+#Comandos 

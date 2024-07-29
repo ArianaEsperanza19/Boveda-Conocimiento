@@ -1,3 +1,5 @@
 # kill *id del proceso*
 
-### [[Index_archivos|Volver]]
+### [[Index_sistema|Volver]]
+
+#Procesos 

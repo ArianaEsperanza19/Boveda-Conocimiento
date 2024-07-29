@@ -4,4 +4,7 @@
 # mv *archivo.txt* *directorios*/
 #### Mover a carpeta de directorio especificado.
 
-### [[Index_archivos|Volver]]
+### Regresar a: 
+[[Index_archivos| Indice de comandos de archivos]]
+
+#Comandos 

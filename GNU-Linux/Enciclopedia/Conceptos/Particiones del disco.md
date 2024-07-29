@@ -49,6 +49,8 @@ Dispositivo | Tamaño | Sistema de archivos | Punto de montaje
 - La cantidad de particiones y el tamaño de cada una dependerá de sus necesidades específicas.
 - Si no está seguro de cómo particionar su disco duro, puede utilizar una herramienta de particionamiento gráfica como GParted.
 - Es importante hacer una copia de seguridad de sus datos antes de particionar su disco duro.
+- A veces también es necesaria una partición [[EFI (Extensible Firmware Interface)|EFI]] para instalar el sistema.
+- Se recomienda que /boot, / sean particiones primarias y /home sea lógica.
 ### Regresar a:
 [[Index_Enciclopedia|Indice de la enciclopedia]]
 [[Indice maestro]]

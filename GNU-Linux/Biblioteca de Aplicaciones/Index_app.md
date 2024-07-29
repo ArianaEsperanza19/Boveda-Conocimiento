@@ -5,11 +5,15 @@
 - [[Stacer]]
 - [[Syncthing]]
 - [[Telegram]]
+- [[Biblioteca de Aplicaciones/Apps/Vim|Vim]]
 - [[Virt Manager]]
 - [[Visual Studio Code]]
 - [[Tilix]]
 - [[Biblioteca de Aplicaciones/Apps/lshw (Hardware Lister)|lshw (Hardware Lister)]]
 - [[Secrets]]
+- [[Biblioteca de Aplicaciones/Apps/Wine|Wine]]
+- [[Winetricks]]
+- [[Biblioteca de Aplicaciones/Apps/Xampp]]
 ### [[Indice maestro]]
 ---
 #Aplicaciones 

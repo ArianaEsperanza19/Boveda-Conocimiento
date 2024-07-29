@@ -4,6 +4,7 @@
 # open *directorio/archivo.extension*
 #### Abrir especificando el directorio.
 ---
-# 
+### Regresar a: 
+[[Index_archivos| Indice de comandos de archivos]]
 
-### [[Index_archivos| Volver]]
+#Comandos 
